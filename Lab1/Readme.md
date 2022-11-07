@@ -10,7 +10,7 @@
 
 ## Theme
 
-### Many Sorted Logic
+### Many Sorted Logic in Dafny
 
 <br>
 
@@ -45,3 +45,13 @@
 [GitHub Repo](https://github.com/dafny-lang/dafny)
 
 [Wiki](https://github.com/dafny-lang/dafny/wiki)
+
+### Joao Ferreira
+
+[Intro to Dafny](https://web.tecnico.ulisboa.pt/~joaofernandoferreira/1920/SoftSpec/06-dafny.html#/)
+
+[Intro to Dafny (continued)](https://web.tecnico.ulisboa.pt/~joaofernandoferreira/1920/SoftSpec/07-dafny.html#/)
+
+[Algebraic Data Types. Lemmas](https://web.tecnico.ulisboa.pt/~joaofernandoferreira/1920/SoftSpec/08-dafny.html#/)
+
+[Structural Induction](https://web.tecnico.ulisboa.pt/~joaofernandoferreira/1920/SoftSpec/09-dafny.html#/)
