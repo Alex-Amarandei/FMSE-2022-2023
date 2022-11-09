@@ -46,7 +46,7 @@
 
 [Wiki](https://github.com/dafny-lang/dafny/wiki)
 
-### Joao Ferreira
+### João F. Ferreira PhD
 
 [Intro to Dafny](https://web.tecnico.ulisboa.pt/~joaofernandoferreira/1920/SoftSpec/06-dafny.html#/)
 
