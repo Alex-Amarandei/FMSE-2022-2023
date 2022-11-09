@@ -33,11 +33,11 @@
   - _defining the addition of conaturals_
   - _showing that by adding `∞` to itself, it remains unchanged._
 
-- _Define the parametric streams as coinductive datatype using the rule:_
+- _Define the parametric streams as coinductive datatype using the rule (**where s ranges over streams**):_
 
 $$\dfrac{s}{cons(a, s)},\ \forall a \in A$$
 
-- _**where s ranges over streams**, and use it for:_
+- _Use it for:_
 
   - _corecursively defining the pointwise addition of two streams of integers `add(s, s′)`_
 
