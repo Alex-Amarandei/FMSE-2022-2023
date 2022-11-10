@@ -38,6 +38,7 @@
 ### Microsoft (Author and Teacher @ Verification Corner)
 
 [Guide to Getting Started with Dafny](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/krml220.pdf)
+
 [Solutions to Tutorial Problems](https://github.com/bor0/dafny-tutorial)
 
 ### Dafny Group
